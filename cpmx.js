@@ -28,15 +28,15 @@ setTimeout(function(){
 }, 4000);
 setTimeout(function(){
   $('a').addClass('animated lightSpeedOut');
-}, 4500)
+}, 4500);
 setTimeout(function(){
   $('body').addClass('animated hinge');
-}, 5000)
+}, 5000);
 
-$('html').css('background'  'url(http://animexico.com.mx/wp-content/uploads/2016/06/Campus-Party-2016-579x360.jpg) no-repeat center center fixed;');
-$('html').css('-webkit-background-size': 'cover');
-$('html').css('-moz-background-size': 'cover');
-$('html').css('background-size': 'cover');
+$('html').css('background',  'url(http://animexico.com.mx/wp-content/uploads/2016/06/Campus-Party-2016-579x360.jpg)');
+$('html').css('-webkit-background-size', 'cover');
+$('html').css('-moz-background-size', 'cover');
+$('html').css('background-size', 'cover');
 
 
 

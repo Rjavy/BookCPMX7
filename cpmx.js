@@ -1,3 +1,5 @@
 (function() {
-  alert('get the fucking drone!');
+  
+  debugger
+  $('h1').animateCss('tada');
 })();
